@@ -146,7 +146,7 @@
     "@types/codemirror": "^0.0.108",
     "@types/dompurify": "^2.2.3",
     "jsdom": "~19.0.0",
-    "mitt": "^3.0.0"
+    "mitt": "^3.0.1"
   },
   "resolutions": {
     "glob-parent": "5.1.2",
