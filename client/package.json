@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "cherry-markdown": "^0.5.14"
+    "cherry-markdown": "^0.8.2"
   },
   "scripts": {
     "start": "electron ."
